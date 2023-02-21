@@ -1,0 +1,30 @@
+.content {
+    margin-bottom: 130px;
+}
+
+.title {
+    margin-top: 70px;
+    margin-bottom: 60px;
+    text-align: center;
+    color: rgb(45, 44, 44);
+    font-size: 40px;
+}
+
+.contacts-info {
+    display: flex;
+}
+
+.contacts-info-text p {
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+
+.contacts-info-text b{
+    font-size: 24px;
+}
+
+.disney-img {
+    max-width: 500px;
+    margin-left: 100px;
+    height: auto;
+}

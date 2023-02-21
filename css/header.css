@@ -1,0 +1,44 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body {
+    font-size: 14px;
+    line-height: 18px;
+    background-color: rgba(255, 255, 255, 0.845);
+    color: #0a0a0a;
+}
+
+.header {
+    background-color: black;
+    color: rgba(255, 255, 255, 0.885);
+    padding: 33px 0 32px;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu-item {
+    padding-right: 40px;
+}

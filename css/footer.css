@@ -1,0 +1,21 @@
+.footer {
+    margin-bottom: 20px;
+}
+
+.footer-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-link {
+    color: rgb(45, 44, 44);
+    padding-right: 18px;
+    max-width: 60px;
+    height: auto;
+}
+
+.social-logo {
+    margin-top: 5px;
+    margin-left: 5px;
+}
